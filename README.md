@@ -9,6 +9,8 @@ What it is:
 What it isn't:
 	Lighter than the stock Voron toolhead
 	Cheaper than the stock Voron toolhead
+	Designed to mill anything that you cant extrude out of the attached hotends
+	
 
 Design Requirements:
 	Repeatable: <50micron
@@ -18,9 +20,9 @@ Design Requirements:
 Use Cases:
 	Multi-Color
 	Multi-Material
-	Speed Optimization
+	Speed Optimization 
 	Hybrid Process 
-	Additive + Subtractive
+		Additive + Subtractive
 
 
 System Layout:
@@ -50,8 +52,25 @@ Pinout:
 7: Tool Contact 
 8: 24V
 
+
+
+Omron D2GW Series Sealed Ultra Subminiature Basic Switch
+
 D2F-01L-D
 *D2F-01 (100k operations min vs 30k for D2F models)
 *None: Pin Plunger
 *L: Hinge Lever
 *D: Compact solder terminals
+
+Frequently Asked Questions:
+Q:
+A:
+
+Q:
+A:
+
+Q:
+A:
+
+Q:
+A:
