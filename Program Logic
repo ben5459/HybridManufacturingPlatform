@@ -1,0 +1,57 @@
+Note:
+Rapids are full speed moves
+Moves are reduced speed and acceleration
+
+
+Staging Position: Max X/2, xxY, Max Z -xx 
+Toggle Center Position: Staging position +/-80mm Y direction (Forward)
+Unlock Position: Toggle Center Position +/-10mm X direction (Left)
+Lock Position: Toggle Center Position +/-10mm X direction (Right)
+
+T1 Home: Toggle Center Position +/-xx X direction (+/-xx Y direction for larger tools)
+T2 Home: ""
+T3 Home: ""
+T4 Home: ""
+
+Attach Tool:
+Tool State Check (verify no tool is attached)
+Move to Tx Home +/-80mm Y
+Move to Tx Home
+Tool State Check (verify tool is attached) 
+
+Detach Tool:
+Tool State Check (verify tool is attached)
+Move to Tx Home +25mm Z 
+Move -25mm Z
+Move -10mm Y
+Tool State Check (verify no tool is attached)
+
+Unlock tool:
+Rapid to toggle station XYZ (staging position) 
+Counter check
+	</=3-> proceed
+	>3-> Error: Unable to toggle tool mechanism
+Move into toggle station (toggle center position) 
+Lower currents 
+Move the toolhead -8 in the x direction
+Confirm that unlock switch is triggered and the lock switch is untriggered
+	If no-> Incremenet counter +1 and return to Toggle Center Position
+	If yes-> Proceed to next line
+Return to Toggle Center Position
+Move to Toggle Staging Position
+
+Lock Tool:
+
+
+Tool State Check:
+Toolplate continuity yes/no
+
+Toggle State Check:
+Toolplate continuity 
+	No-> Error: Tool must be attached to check Toggle State
+	Yes-> Proceed
+Toggle Switch Status:
+	Lock switch triggered-> Locked
+	Unlock switch triggered-> Unlocked
+	Neither switch triggered-> Error: Check lock mechanism 
+
