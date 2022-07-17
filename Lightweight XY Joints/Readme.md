@@ -7,7 +7,7 @@
 - Zero travel lost when used with the Voron ATC
 
 ## Cons: 
-- 7% increase in weight [1,2]
+- 7% increase in weight [1][2]
 - Cost
 
 [1]: Weight Calculations: 2.4r2 Stock XY Joints with hardware weight: 254.659g
