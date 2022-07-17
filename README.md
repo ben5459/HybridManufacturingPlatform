@@ -3,10 +3,10 @@
 Development Methodology:
 Pragmatic
  
-#What it is:
+# What it is:
 
 
-#What it isn't:
+# What it isn't:
 - Lighter than the stock Voron toolhead
 - Cheaper than the stock Voron toolhead	
 - Designed to mill anything that you cant extrude out of the attached hotends
