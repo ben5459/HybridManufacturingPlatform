@@ -7,7 +7,7 @@
 - Reduced thermal expansion 
 - Lower profile 
 - Reduced chance of belt abrasion against the idler bearings
-- Zero travel lost when used with the Voron ATC [^reference #3]: test
+- Zero travel lost when used with the Voron ATC [^3]: test
 
 ## Cons: 
 - 7% increase in weight [1][2]
