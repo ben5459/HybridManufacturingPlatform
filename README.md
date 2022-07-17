@@ -12,21 +12,21 @@ Pragmatic
 - Designed to mill anything that you cant extrude out of the attached hotends
 	
 
-#Design Requirements:
+# Design Requirements:
 - Repeatable: <50micron
 - Reliable:
 - Safe: 
 
 
-#Use Cases:
-- Multi-Color	
-- Multi-Material
-- Speed Optimization 
-- Hybrid Process 
-	-Additive + Subtractive
+# Use Cases:
+## - Multi-Color	
+## - Multi-Material
+## - Speed Optimization 
+## - Hybrid Process 
+### -Additive + Subtractive
 
 
-#System Layout:
+# System Layout:
 - Automatic Tool Changer (ATC)
 ->
 - Tool Holder 
@@ -34,7 +34,7 @@ Pragmatic
 - Tool (ex. Stealthburner with Clockwork2)
 
 
-#Features:
+# Features:
 - Able to detect the current state of the lock mechanism. 
 - Able to detect a fault in the locking mechanism (neither slider switch is triggered).
 - Able to detect crashes that are not recoverable.
@@ -48,7 +48,7 @@ Pragmatic
 - [ ] Tool Alignment 
 
 
-Frequently Asked Questions:
+# Frequently Asked Questions:
 Q:
 A:
 
