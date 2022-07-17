@@ -7,7 +7,7 @@
 - Zero travel lost when used with the Voron ATC
 
 ## Cons: 
-- 7% increase in weight [1] [2]. 
+- 7% increase in weight [1,2]
 - Cost
 
 [1]: Weight Calculations: 2.4r2 Stock XY Joints with hardware weight: 254.659g
@@ -20,4 +20,4 @@ Lightweight aluminum model weight: 221.387g
 
 Difference: 15.186g -> that's a 7.36% increase in weight.
 
-[2]:Disclaimer: The threads on the stock model are solid but the threads on the lightweight aluminum model are modeled. This will introduce a small error into the calculation.
+[2]: Disclaimer: The threads on the stock model are solid but the threads on the lightweight aluminum model are modeled. This will introduce a small error into the calculation.
