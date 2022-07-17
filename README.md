@@ -40,6 +40,14 @@ Features:
 	Electrical connection between toolheads is rated for up to 1,000,000 cycles. 
 	Compatible with two and three pin probes.
 
+- [X] Develop a kinematic coupling
+- [X] Develop lock/unlock mechanism 
+- [X] Test lock/unlock mechanism
+- [ ] Tool Maintenance
+- [ ] Tool Alignment 
+- [ ] 
+
+
 
 
 Pinout: 
