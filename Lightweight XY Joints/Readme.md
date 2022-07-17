@@ -1,5 +1,7 @@
 # Lightweight XY Joints
 
+![image](https://user-images.githubusercontent.com/104525636/179417942-0a88ca0e-ee5f-4aaa-84ac-57b2c0bef763.png)
+
 ## Pros: 
 - Increased rigidity
 - Reduced thermal expansion 
