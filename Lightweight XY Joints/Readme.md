@@ -1,12 +1,12 @@
-#Lightweight XY Joints
+# Lightweight XY Joints
 
-##Pros: 
+## Pros: 
 - Increased rigidity
 - Reduced thermal expansion 
 - Lower profile 
 - Zero travel lost when used with the Voron ATC
 
-##Cons: 
+## Cons: 
 - 7% increase in weight [1] [2]. 
 - Cost
 
