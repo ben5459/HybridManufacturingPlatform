@@ -6,6 +6,7 @@
 - Increased rigidity
 - Reduced thermal expansion 
 - Lower profile 
+- Reduced chance of belt abrasion against the idler bearings
 - Zero travel lost when used with the Voron ATC
 
 ## Cons: 
@@ -18,7 +19,7 @@ Adjust for printed density of 60% Left: 61.084g * 0.4 = 24.4336 Right: 60.061g *
 
 Adjusted weight: 254.659g-48.458g=206.201g
 
-Lightweight aluminum model weight: 221.387g
+Lightweight aluminum model weight(v0.03): 221.387g
 
 Difference: 15.186g -> that's a 7.36% increase in weight.
 
