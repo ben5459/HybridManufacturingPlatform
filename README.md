@@ -45,8 +45,8 @@
 - Compatible with two and three pin probes.
 
 ## Milestones:
-- [X] Develop a kinematic coupling
-- [X] Develop lock/unlock mechanism 
+- [X] Kinematic coupling development
+- [X] Lock/unlock mechanism development
 - [X] Test lock/unlock mechanism
 - [ ] Tool Maintenance
 - [ ] Tool Alignment 
