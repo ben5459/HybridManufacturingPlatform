@@ -15,12 +15,9 @@
 
 [1]: Weight Calculations: 2.4r2 Stock XY Joints with hardware weight: 254.659g
 
-Adjust for printed density of 60% 
-
+Adjust for printed density of 60%:
 Left: 61.084g * 0.4 = 24.4336 
-
 Right: 60.061g * 0.4 = 24.0244 
-
 Total: 48.458
 
 
