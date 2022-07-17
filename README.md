@@ -7,9 +7,9 @@ What it is:
 
 
 What it isn't:
--Lighter than the stock Voron toolhead
--Cheaper than the stock Voron toolhead	
--Designed to mill anything that you cant extrude out of the attached hotends
+- Lighter than the stock Voron toolhead
+- Cheaper than the stock Voron toolhead	
+- Designed to mill anything that you cant extrude out of the attached hotends
 	
 
 Design Requirements:
@@ -18,11 +18,11 @@ Design Requirements:
 -Safe: 
 
 Use Cases:
--Multi-Color
+- Multi-Color
 	
--Multi-Material
+- Multi-Material
 	
--Speed Optimization 
+- Speed Optimization 
 	
 -Hybrid Process 
 	-Additive + Subtractive
