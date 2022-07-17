@@ -8,20 +8,28 @@ What it is:
 
 What it isn't:
 	-Lighter than the stock Voron toolhead
+	
 	-Cheaper than the stock Voron toolhead
+	
 	-Designed to mill anything that you cant extrude out of the attached hotends
 	
 
 Design Requirements:
 	-Repeatable: <50micron
+	
 	-Reliable:
+	
 	-Safe: 
 
 Use Cases:
 	-Multi-Color
+	
 	-Multi-Material
+	
 	-Speed Optimization 
+	
 	-Hybrid Process 
+	
 		-Additive + Subtractive
 
 
