@@ -17,4 +17,4 @@
 
 [^2]: Using titanium fasteners further reduces the weight to 208.265g. The difference between the stock model then becomes 2.064g, which is a 1.00% increase in weight.
 
-[^3]Disclaimer: The threads on the stock model are solid but the threads on the lightweight aluminum model are modeled. This will introduce a small error into the calculation.
+[^3]: Disclaimer: The threads on the stock model are solid but the threads on the lightweight aluminum model are modeled. This will introduce a small error into the calculation.
