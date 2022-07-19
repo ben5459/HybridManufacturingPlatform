@@ -2,6 +2,11 @@
 
 ![image](https://user-images.githubusercontent.com/104525636/179417942-0a88ca0e-ee5f-4aaa-84ac-57b2c0bef763.png)
 
+##Features:
+- Aluminum with black anodize finish
+- Two piece interlocking design 
+- Design uses precision shafts (g6 tolerance: -0.012～-0.004) for the pulley and bearings (Misumi SRMBR5-23)	
+
 ## Pros: 
 - Increased rigidity
 - Reduced thermal expansion 
