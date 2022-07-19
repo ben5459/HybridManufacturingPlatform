@@ -1,0 +1,25 @@
+## CTE (Coefficient of Thermal Expansion) 
+## Modulus of Elasticity (characterizes the materials resistance to being elastically deformed)
+## Specific Modulus (stiffness to weight ratio)
+
+
+## Linear CTE
+- ABS: 82.6 µm/m-°C (Average) 
+- Aluminum 6061-T6: 23.6 µm/m-°C @ 20.0 - 100 °C
+
+# ABS
+- Density: 1.01 - 1.20 g/cc Average value: 1.08 g/cc 
+Modulus of Elasticity @ -18.0 - 71.0 °C: Average value: 2.05 GPa 
+Specific Modulus: 1.90
+
+#Aluminum 6061-T6
+Modulus of Elasticity: 68.9 GPa	
+Density: 2.70 g/cc	
+Specific Modulus 25.52 10^6 m^2 s^-2
+
+25.52/1.9=13.43x or ABS has 7.4% of the stiffness of aluminum. 
+
+
+###Source:
+https://www.matweb.com/search/DataSheet.aspx?MatGUID=3a8afcddac864d4b8f58d40570d2e5aa&ckck=1
+https://www.matweb.com/search/DataSheet.aspx?MatGUID=b8d536e0b9b54bd7b69e4124d8f1d20a
