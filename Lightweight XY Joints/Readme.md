@@ -1,4 +1,5 @@
 # Lightweight XY Joints
+![image](https://user-images.githubusercontent.com/104525636/180825709-c3f8d177-cb0b-4fe8-80d7-bf65cd441394.png)
 
 ![image](https://user-images.githubusercontent.com/104525636/179417942-0a88ca0e-ee5f-4aaa-84ac-57b2c0bef763.png)
 
@@ -17,6 +18,20 @@
 ## Cons: 
 - 7% increase in weight [^2][^3][^4]
 - Cost
+
+
+## Bill of Materials:
+- 8x Button Head Hex Drive Screw (92095A177)
+- 8X 18-8 Stainless Steel Button Head Hex Drive Screws (97763A431)
+- 4x 18-8 Stainless Steel Socket Head Screw (91292A124)
+- 4x Misumi SRMBR5-23
+- 1x M5 1mm Shim (from Voron BOM)
+- 2X F695 ZZ Bearings (from Voron BOM)
+- 1x GT2 20T Gates Idler(from Voron BOM)
+
+
+
+
 
 
 [^1]: https://github.com/ben5459/HybridManufacturingPlatform/blob/f1b044d5f53c0e363d248a8a40d7fbd51552b5d9/Lightweight%20XY%20Joints/Science%20and%20Maths
