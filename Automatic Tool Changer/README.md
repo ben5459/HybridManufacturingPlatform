@@ -1,8 +1,8 @@
 # Wireless Automatic Toolchanger
 
 ## Development Methodology:
-- Pragmatic Product Management
-- Continuous Improvement
+- Pragmatic product management
+- Continuous improvement
 - Sound engineering theory supported by empirical testing
  
 ## What it is:
@@ -64,6 +64,7 @@
 
 
 ## Features:
+- True kinematic coupling that complies with the maxwell criteria.
 - Able to detect the current state of the lock mechanism. 
 - Able to detect a fault in the locking mechanism (neither slider switch is triggered).
 - Able to detect crashes that are not recoverable.
