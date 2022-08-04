@@ -25,25 +25,25 @@
 
  
 ## Current Specifications:
-### ATC Weight: 75grams
-### ATC Footprint: 68x62x35
-### Operating temperature: ≤85C (all components are rated for atleast 85C)
-
+#### ATC Weight: 75grams
+#### ATC Footprint: 68x62x35
+#### Operating temperature: ≤85C (all components are rated for atleast 85C)  
  
-### Recomended Maximum Tool Width (without modifications): 62mm
-### Recomended Maximum Tool Height (without modifications): 145mm
-### Recomended Maximum Tool Depth (without modifications): 76mm
-
  
-### Number of tool changes between maintenance intervals based on component service life: >100k
-
+#### Recomended Maximum Tool Width (without modifications): 62mm
+#### Recomended Maximum Tool Height (without modifications): 145mm
+#### Recomended Maximum Tool Depth (without modifications): 76mm
  
-### Weight required in the Z axis to separate the kinematic coupling:
-#### Locked state >5000g (over the amount that I can currently measure) 
-#### Unlocked state 1750g +/-100g (connection state change occured before full decoupling)
-
  
-### Weight of a stealthburner with rapido, EBB36, and kinematic motor plate: 395g 
+#### Number of tool changes between maintenance intervals based on component service life: >100k
+ 
+ 
+#### Weight required in the Z axis to separate the kinematic coupling:
+##### Locked state >5000g (over the amount that I can currently measure) 
+##### Unlocked state 1750g +/-100g (connection state change occured before full decoupling)
+ 
+ 
+#### Weight of a stealthburner with rapido, EBB36, and kinematic motor plate: 395g 
 
 
 
