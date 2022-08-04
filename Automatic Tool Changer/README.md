@@ -1,24 +1,51 @@
-# Voron Toolchanger
+# Wireless Automatic Toolchanger
 
 ## Development Methodology:
-- Pragmatic
+- Pragmatic Product Management
+- Continuous Improvement
+- Sound engineering theory supported by empirical testing
  
 ## What it is:
+- Compact
 - Lightweight
 - Extensible
-- Compact
+- Wireless
 - 
-
+ 
 ## What it isn't:
 - Lighter than the stock Voron toolhead
 - Cheaper than the stock Voron toolhead	
-- Designed to mill anything that you cant extrude out of the attached hotends
+- Designed to mill anything that you can't extrude out of the attached hotends
 	
-
+ 
 ## Design Requirements:
 - Repeatable: <50micron
-- Reliable:
-- Safe: 
+- Reliable: >100k Cycles
+- Safe: Able to detect lock states and tool crashes
+
+ 
+## Current Specifications:
+### ATC Weight: 75grams
+### ATC Footprint: 68x62x35
+### Operating temperature: ≤85C (all components are rated for atleast 85C)
+
+ 
+### Recomended Maximum Tool Width (without modifications): 62mm
+### Recomended Maximum Tool Height (without modifications): 145mm
+### Recomended Maximum Tool Depth (without modifications): 76mm
+
+ 
+### Number of tool changes between maintenance intervals based on component service life: >100k
+
+ 
+### Weight required in the Z axis to separate the kinematic coupling:
+#### Locked state >5000g (over the amount that I can currently measure) 
+#### Unlocked state 1750g +/-100g (connection state change occured before full decoupling)
+
+ 
+### Weight of a stealthburner with rapido, EBB36, and kinematic motor plate: 395g 
+
+
 
 
 ## Use Cases:
