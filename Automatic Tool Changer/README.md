@@ -25,7 +25,7 @@
 
  
 ## Current Specifications:
-#### ATC Weight: 75grams
+#### - ATC Weight: 75grams
 #### ATC Footprint: 68x62x35
 #### Operating temperature: ≤85C (all components are rated for atleast 85C)  
  
