@@ -60,14 +60,24 @@ Here is a simple flow chart:
 
 ```mermaid 
 graph TD;
-    Automatic Tool Changer ATC --> Tool Holder;
-    Tool Holder --> Tool ex. Stealthburner with Clockwork2;
+    Automatic Tool Changer ATC -->; Tool Holder;
+    Tool Holder -->; Tool ex. Stealthburner with Clockwork2;
 ```
 - Automatic Tool Changer (ATC)
 ->
 - Tool Holder 
 -> 
 - Tool (ex. Stealthburner with Clockwork2)
+
+Here is a simple flow chart:
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
 
 
 ## Features:
