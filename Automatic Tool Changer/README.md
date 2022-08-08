@@ -1,10 +1,14 @@
 # Wireless Automatic Toolchanger
 
 ## Development Methodology:
+<details><summary>CLICK ME</summary>
+<p>		
 - Pragmatic product management
 - Continuous improvement
 - Sound engineering theory supported by empirical testing
- 
+ </p>
+</details>
+
 ## What it is:
 - Compact
 - Lightweight
@@ -25,9 +29,9 @@
 
 ## Current Specifications:
 <details><summary>CLICK ME</summary>
-<p>
-#### - ATC Weight: 75grams
-#### - ATC Footprint: 68x62x35
+<p>	
+#### - ATC Weight: 75grams	
+#### - ATC Footprint: 68x62x35	
 #### - Operating temperature: ≤85C (all components are rated for atleast 85C)  
 
 #### - Recomended Maximum Tool Width (without modifications): 62mm
