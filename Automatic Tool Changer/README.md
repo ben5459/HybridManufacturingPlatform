@@ -66,9 +66,8 @@ graph TD;
 
 ```mermaid
 graph TD;
-    1[Automatic Tool Changer]-->B;
-    B-->C;
-    C-->D;
+    1[Automatic Tool Changer]-->2[Tool Holder];
+    2[Tool Holder]-->3[Tool ex. Stealthburner with Clockwork];
 ```
 
 
