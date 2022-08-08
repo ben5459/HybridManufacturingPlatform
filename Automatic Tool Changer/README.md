@@ -56,6 +56,12 @@
 
 
 ## System Layout:
+Here is a simple flow chart:
+
+```mermaid graph TD;
+    Automatic Tool Changer (ATC)--> Tool Holder;
+     Tool Holder --> Tool (ex. Stealthburner with Clockwork2);
+```
 - Automatic Tool Changer (ATC)
 ->
 - Tool Holder 
