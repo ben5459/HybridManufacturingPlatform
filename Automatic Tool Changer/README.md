@@ -70,7 +70,12 @@ graph TD;
     2[Tool Holder]-->3[Tool ex. Stealthburner with Clockwork];
 ```
 
-
+```mermaid
+graph TD;
+    1[Automatic Tool Changer]-->2[Toolhead];
+    2[Toolhead]-->3[Tool Holder];
+    2[Toolhead]-->3[Tool ex. Stealthburner with Clockwork];
+```
 
 
 
