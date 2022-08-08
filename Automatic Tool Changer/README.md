@@ -23,8 +23,9 @@
 - Reliable: >100k Cycles
 - Safe: Able to detect lock states and tool crashes
 
- 
 ## Current Specifications:
+<details><summary>CLICK ME</summary>
+<p>
 #### - ATC Weight: 75grams
 #### - ATC Footprint: 68x62x35
 #### - Operating temperature: ≤85C (all components are rated for atleast 85C)  
@@ -44,6 +45,10 @@
  
 #### - Weight of a stealthburner with rapido, EBB36, and kinematic motor plate: 395g 
 
+</p>
+</details>
+
+
 
 
 
@@ -56,20 +61,6 @@
 
 
 ## System Layout:
-Here is a simple flow chart:
-
-```mermaid 
-graph TD;
-    Automatic Tool Changer ATC -->; Tool Holder;
-    Tool Holder -->; Tool ex. Stealthburner with Clockwork2;
-```
-
-```mermaid
-graph TD;
-    1[Automatic Tool Changer]-->2[Tool Holder];
-    2[Tool Holder]-->3[Tool ex. Stealthburner with Clockwork];
-```
-
 ```mermaid
 graph TD;
     1[Automatic Tool Changer]-->2[Toolhead];
