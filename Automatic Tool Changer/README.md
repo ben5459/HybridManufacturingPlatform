@@ -74,25 +74,10 @@ graph TD;
 graph TD;
     1[Automatic Tool Changer]-->2[Toolhead];
     2[Toolhead]-->3[Tool Holder];
-    2[Toolhead]-->3[Tool ex. Stealthburner with Clockwork];
+    2[Toolhead]-->4[Tool ex. Stealthburner with Clockwork];
 ```
 
 
-
-- Automatic Tool Changer (ATC)
-->
-- Tool Holder 
--> 
-- Tool (ex. Stealthburner with Clockwork2)
-
-Here is a simple flow chart:
-
-```mermaid
-graph TD;
-    A-->B;
-    B-->C;
-    C-->D;
-```
 
 
 ## Features:
