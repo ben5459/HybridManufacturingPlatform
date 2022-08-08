@@ -66,7 +66,8 @@ graph TD;
 
 ```mermaid
 graph TD;
-    Automatic Tool Changer-->B;
+    Automatic Tool Changer
+    -->B;
     B-->C;
     C-->D;
 ```
