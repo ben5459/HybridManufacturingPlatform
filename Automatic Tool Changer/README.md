@@ -63,6 +63,18 @@ graph TD;
     Automatic Tool Changer ATC -->; Tool Holder;
     Tool Holder -->; Tool ex. Stealthburner with Clockwork2;
 ```
+
+```mermaid
+graph TD;
+    Automatic Tool Changer-->B;
+    B-->C;
+    C-->D;
+```
+
+
+
+
+
 - Automatic Tool Changer (ATC)
 ->
 - Tool Holder 
