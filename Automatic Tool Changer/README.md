@@ -3,9 +3,9 @@
 ## Development Methodology:
 <details><summary>CLICK ME</summary>
 <p>		
-- Pragmatic product management		
-- Continuous improvement
-- Sound engineering theory supported by empirical testing
+- Pragmatic product management <br />	
+- Continuous improvement <br />
+- Sound engineering theory supported by empirical testing <br />
  </p>
 </details>
 
