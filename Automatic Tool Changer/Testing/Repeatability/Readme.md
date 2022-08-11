@@ -11,6 +11,7 @@
 
 ## Y repeatability:
 Y indicator zero point: 108.5, 75.5, 104
+![image](https://user-images.githubusercontent.com/104525636/184260319-be9c7ec5-059a-44ce-acfd-1f426e57b269.png)
 
 Measurements:
   1. -5
