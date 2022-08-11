@@ -38,7 +38,7 @@ Measurements:
 
 Mean: 2.4 <br />
 Median: 2 <br />
-Population standard deviation {2, 2, 3, 2, 3 } = 0.48990 * 0.0005 = 0.00024495" or 0.00622173
+Population standard deviation {2, 2, 3, 2, 3 } = 0.48990 * 0.0005 = 0.00024495" or 0.00622173mm
 
 
 
