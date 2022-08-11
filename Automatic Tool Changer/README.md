@@ -57,11 +57,11 @@
 
 
 ## Use Cases:
-### Multi-Color	
-### Multi-Material
-### Speed Optimization 
-### Hybrid Process 
-##### Additive + Subtractive
+#### Multi-Color	
+#### Multi-Material
+#### Speed Optimization 
+#### Hybrid Process 
+###### Additive + Subtractive
 
 
 ## System Layout:
