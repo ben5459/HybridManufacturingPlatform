@@ -1,15 +1,15 @@
-###Date of Measurement: 08/11/2022
-###Frame Temp: 25.1C
-###Value of 1=.0005"
+### Date of Measurement: 08/11/2022
+### Frame Temp: 25.1C
+### Value of 1=.0005"
 
-###Operations between each measurement:
--Unlock_ATC
--Dock_T1
--Pickup_T1 
--Lock_ATC
--Move to measurement point
+### Operations between each measurement:
+- Unlock_ATC
+- Dock_T1
+- Pickup_T1 
+- Lock_ATC
+- Move to measurement point
 
-##Y repeatability:
+## Y repeatability:
 Y indicator zero point: 108.5, 75.5, 104
 
 1: -5
@@ -23,7 +23,7 @@ Median: -2
 population standard deviation {-5,3,2,-3,-2} = 3.0332 *0.0005 = 0.0015166" or 0.03852164mm
 
 
-##X repeatability:
+## X repeatability:
 X indicator zero point: 97, 97, 52
 1: +2
 2: +2
