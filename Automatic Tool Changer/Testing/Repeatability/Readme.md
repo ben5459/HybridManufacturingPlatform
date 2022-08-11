@@ -9,7 +9,7 @@
 - Lock_ATC
 - Move to measurement point
 
-## Y repeatability:
+## Y Repeatability:
 Y indicator zero point: 108.5, 75.5, 104
 ![image](https://user-images.githubusercontent.com/104525636/184260319-be9c7ec5-059a-44ce-acfd-1f426e57b269.png)
 
@@ -25,8 +25,9 @@ Median: -2 <br />
 Population standard deviation {-5,3,2,-3,-2} = 3.0332 * 0.0005 = 0.0015166" or 0.03852164mm
 
 
-## X repeatability:
+## X Repeatability:
 X indicator zero point: 97, 97, 52
+![image](https://user-images.githubusercontent.com/104525636/184260521-aae4cde8-6809-4c18-acc5-aa82689c17a8.png)
 
 Measurements:
 1. +2
