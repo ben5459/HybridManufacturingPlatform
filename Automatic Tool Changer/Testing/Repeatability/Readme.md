@@ -26,6 +26,7 @@ Population standard deviation {-5,3,2,-3,-2} = 3.0332 * 0.0005 = 0.0015166" or 0
 
 ## X repeatability:
 X indicator zero point: 97, 97, 52
+![image](https://user-images.githubusercontent.com/104525636/184241546-15041567-7109-4485-b2cb-fd95c337416d.png)
 
 Measurements:
 1. +2
