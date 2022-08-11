@@ -19,8 +19,8 @@ Measurements:
   4. -3 -> -2
   5. -2
 
-Mean: -1
-Median: -2
+Mean: -1 <br />
+Median: -2 <br />
 population standard deviation {-5,3,2,-3,-2} = 3.0332 *0.0005 = 0.0015166" or 0.03852164mm
 
 
