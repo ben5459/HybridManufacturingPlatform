@@ -30,24 +30,24 @@
 ## Current Specifications:
 <details><summary>CLICK ME</summary>
 <p>	
-#### - ATC Weight: 75grams	
-#### - ATC Footprint: 68x62x35	
-#### - Operating temperature: ≤85C (all components are rated for atleast 85C)  
+#### - ATC Weight: 75grams <br />	
+#### - ATC Footprint: 68x62x35 <br />	
+#### - Operating temperature: ≤85C (all components are rated for atleast 85C) <br />  
 
-#### - Recomended Maximum Tool Width (without modifications): 62mm
-#### - Recomended Maximum Tool Height (without modifications): 145mm
-#### - Recomended Maximum Tool Depth (without modifications): 76mm
+#### - Recomended Maximum Tool Width (without modifications): 62mm <br />
+#### - Recomended Maximum Tool Height (without modifications): 145mm <br />
+#### - Recomended Maximum Tool Depth (without modifications): 76mm <br />
  
  
-#### - Number of tool changes between maintenance intervals based on component service life: >100k
+#### - Number of tool changes between maintenance intervals based on component service life: >100k <br />
  
  
-#### Weight required in the Z axis to separate the kinematic coupling:
-##### - Locked state >5000g (over the amount that I can currently measure) 
-##### - Unlocked state 1750g +/-100g (connection state change occured before full decoupling)
+#### Weight required in the Z axis to separate the kinematic coupling: <br />
+##### - Locked state >5000g (over the amount that I can currently measure)  <br />
+##### - Unlocked state 1750g +/-100g (connection state change occured before full decoupling) <br />
  
  
-#### - Weight of a stealthburner with rapido, EBB36, and kinematic motor plate: 395g 
+#### - Weight of a stealthburner with rapido, EBB36, and kinematic motor plate: 395g  <br />
 
 </p>
 </details>
@@ -92,20 +92,8 @@ graph TD;
 
 
 ## Frequently Asked Questions:
-Q: SmCo magnets have a TwMax of 250-350C. Why are you using NdFeB magnets?
-A: Our custom NdFeB magnets have an energy density 30% higher than SmCo magnets while still offering a TwMax of 150C. 
+**Q:** SmCo magnets have a TwMax of 250-350C. Why are you using NdFeB magnets? <br /> 
+**A:** Our custom NdFeB magnets have an energy density 30% higher than SmCo magnets while still offering a TwMax of 150C. <br />
 
-
-Q:
-
-A:
-
-
-Q:
-
-A:
-
-
-Q:
-
-A:
+**Q:** <br />
+**A:** <br />
