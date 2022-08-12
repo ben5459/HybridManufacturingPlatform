@@ -7,7 +7,7 @@
 #### - Wireless - No cables or wires need to be connected to the X carriage. 
 #### - Intelligence built in - Lock engaged/disengaged status and tool attached/detached status reporting.
 #### - Designed for a heated environment - All components are rated for continuous use at 85C or higher.
-#### - Reliable - Reduced components that can fail (steppers, servos, torque plates, etc)
+#### - Reliable - Eliminates common components that can fail (steppers, servos, torque plates, etc)
 #### - Convenient - Tools are stored at the front.
 #### - True kinematic coupling- Design complies with the maxwell criteria.
 
