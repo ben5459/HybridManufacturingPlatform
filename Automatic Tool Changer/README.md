@@ -1,5 +1,17 @@
 # Wireless Automatic Toolchanger
 
+
+![image](https://user-images.githubusercontent.com/104525636/184387912-660498cf-3403-4c71-937f-90018e7a0ae8.png)
+
+
+## Highlights:
+#### - Wireless - No cables or wires need to be connected to the X carriage. 
+#### - Intelligence built in - Lock engaged/disengaged status and tool attached/detached status reporting.
+#### - Designed for a heated environment - All components are rated for continuous use at 85C or higher.
+#### - Reliable - Reduced components that can fail (steppers, servos, torque plates, etc)
+#### - Convenient - Tools are stored at the front.
+#### - True kinematic coupling- Design complies with the maxwell criteria.
+
 ## Development Methodology:
 <details><summary>CLICK ME</summary>
 <p>		
