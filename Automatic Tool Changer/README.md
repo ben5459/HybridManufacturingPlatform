@@ -6,7 +6,7 @@
 
 /assets/images/Toolchange GIF.gif
 
-(/images/Toolchange GIF.gif)
+(images/Toolchange GIF.gif)
 
 
 ## Highlights:
