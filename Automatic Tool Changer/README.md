@@ -6,6 +6,8 @@
 
 /assets/images/Toolchange GIF.gif
 
+/images/Toolchange GIF.gif
+
 
 ## Highlights:
 #### - Wireless - No cables or wires need to be connected to the X carriage. 
