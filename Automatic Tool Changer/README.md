@@ -1,6 +1,6 @@
 # Wireless Automatic Toolchanger
 
-![Toolchange GIF](Automatic Tool Changer/Images/Toolchange GIF.gif)
+![Tool Change GIF](https://github.com/ben5459/HybridManufacturingPlatform/blob/44d53604ea88ddc55a182922c3dc7c002d66ddbc/Automatic%20Tool%20Changer/Images/Toolchange%20GIF.gif)
 
 
 ## Highlights:
@@ -11,6 +11,31 @@
 #### - Convenient - Tools are stored at the front.
 #### - True kinematic coupling- Design complies with the maxwell criteria.
 
+
+## Use Cases:
+#### Multi-Color	
+#### Multi-Material
+#### Speed Optimization 
+#### Hybrid Process 
+###### Additive + Subtractive
+
+
+## System Layout:
+```mermaid
+graph TD;
+    1[Automatic Tool Changer]-->2[Toolhead];
+    2[Toolhead]-->3[Tool Holder];
+    2[Toolhead]-->4[Tool ex. Stealthburner with Clockwork];
+```
+## Features:
+- True kinematic coupling that complies with the maxwell criteria.
+- Able to detect the current state of the lock mechanism. 
+- Able to detect a fault in the locking mechanism (neither slider switch is triggered).
+- Able to detect crashes that are not recoverable.
+- Electrical connection between toolheads is rated for up to 1,000,000 cycles. 
+- Compatible with two and three pin probes.
+
+
 ## Development Methodology:
 <details><summary>CLICK ME</summary>
 <p>		
@@ -20,21 +45,24 @@
  </p>
 </details>
 
-## What it is:
+## What it is vs What it isn't
+<details><summary>CLICK ME</summary>
+<p>
+### What it is:
 - Compact
 - Lightweight
 - Extensible
 - Wireless
-- 
  
-## What it isn't:
+### What it isn't:
 - Lighter than the stock Voron toolhead
 - Cheaper than the stock Voron toolhead	
 - Designed to mill anything that you can't extrude out of the attached hotends
-	
+ </p>
+</details>	
  
 ## Design Requirements:
-- Repeatable: <50micron
+- Repeatable: <50micron Standard deviation for plastic parts
 - Reliable: >100k Cycles
 - Safe: Able to detect lock states and tool crashes
 
@@ -63,44 +91,6 @@
 
 </p>
 </details>
-
-
-
-
-
-## Use Cases:
-#### Multi-Color	
-#### Multi-Material
-#### Speed Optimization 
-#### Hybrid Process 
-###### Additive + Subtractive
-
-
-## System Layout:
-```mermaid
-graph TD;
-    1[Automatic Tool Changer]-->2[Toolhead];
-    2[Toolhead]-->3[Tool Holder];
-    2[Toolhead]-->4[Tool ex. Stealthburner with Clockwork];
-```
-
-
-
-
-## Features:
-- True kinematic coupling that complies with the maxwell criteria.
-- Able to detect the current state of the lock mechanism. 
-- Able to detect a fault in the locking mechanism (neither slider switch is triggered).
-- Able to detect crashes that are not recoverable.
-- Electrical connection between toolheads is rated for up to 1,000,000 cycles. 
-- Compatible with two and three pin probes.
-
-## Milestones:
-- [X] Kinematic coupling development
-- [X] Lock/unlock mechanism development
-- [X] Test lock/unlock mechanism
-- [ ] Tool Maintenance
-- [ ] Tool Alignment 
 
 
 ## Frequently Asked Questions:
