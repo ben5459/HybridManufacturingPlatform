@@ -1,12 +1,6 @@
 # Wireless Automatic Toolchanger
 
-
-![image](https://user-images.githubusercontent.com/104525636/184387912-660498cf-3403-4c71-937f-90018e7a0ae8.png)
-
-
-/assets/images/Toolchange GIF.gif
-
-!(Automatic Tool Changer/Images/Toolchange GIF.gif)
+![Toolchange GIF](Automatic Tool Changer/Images/Toolchange GIF.gif)
 
 
 ## Highlights:
