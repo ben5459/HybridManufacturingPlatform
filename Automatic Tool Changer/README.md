@@ -6,7 +6,7 @@
 
 /assets/images/Toolchange GIF.gif
 
-!(/assets/images/Toolchange GIF.gif)
+!(Automatic Tool Changer/Images/Toolchange GIF.gif)
 
 
 ## Highlights:
