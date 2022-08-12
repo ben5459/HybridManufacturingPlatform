@@ -4,6 +4,9 @@
 ![image](https://user-images.githubusercontent.com/104525636/184387912-660498cf-3403-4c71-937f-90018e7a0ae8.png)
 
 
+/assets/images/Toolchange GIF.gif
+
+
 ## Highlights:
 #### - Wireless - No cables or wires need to be connected to the X carriage. 
 #### - Intelligence built in - Lock engaged/disengaged status and tool attached/detached status reporting.
