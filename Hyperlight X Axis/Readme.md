@@ -6,8 +6,8 @@
 
 ### Hyperlight features:
 - Single Piece Design (Combines XY Joints and X Beam)
- - Reduces alignment errors
- - 7x stiffer XY joints 
+  - Reduces alignment errors
+  - 7x stiffer XY joints 
 - 6061/7075 Aluminum with Captive Pultruded (0 Degree Layup) Carbon Fiber Stiffeners (replaces backer)
 - Integrated Grease Ports
 - Thermal Expansion clearance 
