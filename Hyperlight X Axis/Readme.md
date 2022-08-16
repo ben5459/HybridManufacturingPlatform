@@ -1,13 +1,13 @@
 ### Designed to be the absolute best X axis that is lightweight, stiff, and high temp capable. 
-*note: CF tubes are lightweight and stiff but not high temp capable. 
-*note: Aluminum tubes are lightweight and high temp capable but they lack stiffness in the relevant axis.
+*note: CF tubes are lightweight and stiff but not high temp capable. <br />
+*note: Aluminum tubes are lightweight and high temp capable but they lack stiffness in the relevant axis.<br />
 
 
 
 ### Hyperlight features:
 - Single Piece Design (Combines XY Joints and X Beam)
-- - Reduces alignment errors
-- - 7x stiffer XY joints 
+ - Reduces alignment errors
+ - 7x stiffer XY joints 
 - 6061/7075 Aluminum with Captive Pultruded (0 Degree Layup) Carbon Fiber Stiffeners (replaces backer)
 - Integrated Grease Ports
 - Thermal Expansion clearance 
