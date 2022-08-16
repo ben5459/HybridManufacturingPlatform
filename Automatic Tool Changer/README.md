@@ -48,16 +48,20 @@ graph TD;
 ## What it is vs What it isn't
 <details><summary>CLICK ME</summary>
 <p>
-### What it is:<br />
+ <br />
+ 
+
+### What it isn't:
+- Lighter than the stock Voron toolhead<br />
+- Cheaper than the stock Voron toolhead	<br />
+- Designed to mill anything that you can't extrude out of the attached hotends<br />
+    
+### What it is: <br />
 - Compact<br />
 - Lightweight<br />
 - Extensible<br />
 - Wireless<br />
- 
-### What it isn't:
-- Lighter than the stock Voron toolhead<br /><br />
-- Cheaper than the stock Voron toolhead	<br />
-- Designed to mill anything that you can't extrude out of the attached hotends<br />
+
  </p>
 </details>	
  
