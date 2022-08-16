@@ -3,6 +3,11 @@
 *note: Aluminum tubes are lightweight and high temp capable but they lack stiffness in the relevant axis.<br />
 
 
+![image](https://user-images.githubusercontent.com/104525636/184929051-c06f2da8-b7ec-49d2-b4b6-49c7c0d84bd2.png)
+
+
+
+
 
 ### Hyperlight features:
 - Single Piece Design (Combines XY Joints and X Beam)
