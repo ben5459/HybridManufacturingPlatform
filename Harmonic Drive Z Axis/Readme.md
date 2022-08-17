@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/104525636/185260220-f01559eb-3a69-4a19-a5ff-549c73f7dd92.png)
+
+
 A minute of arc, arcminute (arcmin) is a unit of angular measurement equal to 1/60 of one degree. 
 One degree is 1/360 of a complete rotation, therefore, one arcmin is 1/21600 of a turn.
 
