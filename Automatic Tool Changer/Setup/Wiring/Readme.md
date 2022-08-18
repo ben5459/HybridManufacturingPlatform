@@ -8,6 +8,7 @@ Product Number: Duet 3 Tool Distribution Board revision 0.5
 4. CAN1_H Yellow
 Power Out +
 Power Out - 
+![image](https://user-images.githubusercontent.com/104525636/185455307-aa0ef24e-aa17-407a-a662-14d780cde505.png)
 
 
 
