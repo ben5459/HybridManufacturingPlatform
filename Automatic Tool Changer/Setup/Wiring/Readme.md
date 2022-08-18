@@ -1,5 +1,5 @@
 
-##Tool Distribution Board Wiring:
+## Tool Distribution Board Wiring:
 Manufacturer: Duet 3D
 Product Number: Duet 3 Tool Distribution Board revision 0.5 
 1. CAN_L Black 
@@ -11,7 +11,7 @@ Power Out -
 
 
 
-##Umbilical Wiring:
+## Umbilical Wiring:
 Manufacturer: Igus
 Product Number: CF113.018.D
 
@@ -27,6 +27,6 @@ CAN pinout
 
 
 
-##Toolhead Wiring:
+## Toolhead Wiring:
 75mm wire from male pogo to CAN toolhead board. 
 One 36mm stepper motor can provide enough for 5x heads.
