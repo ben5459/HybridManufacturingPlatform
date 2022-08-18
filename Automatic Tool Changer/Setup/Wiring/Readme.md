@@ -26,6 +26,7 @@ CAN pinout
 
 * Connect shield to pin 4
 
+![image](https://user-images.githubusercontent.com/104525636/185455522-88e10a0c-48d8-4ba6-9482-053f91a209b3.png)
 
 
 ## Toolhead Wiring:
