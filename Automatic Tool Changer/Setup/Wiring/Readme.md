@@ -32,3 +32,6 @@ CAN pinout
 ## Toolhead Wiring:
 75mm wire from male pogo to CAN toolhead board. 
 One 36mm stepper motor can provide enough for 5x heads.
+
+
+![image](https://user-images.githubusercontent.com/104525636/185957880-05cc142f-2e0d-4637-8527-7e5994776683.png)
