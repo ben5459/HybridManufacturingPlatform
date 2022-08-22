@@ -109,3 +109,18 @@ A: They are complementary. Any one of the tools used on the tool changer can als
 
 **Q:** <br />
 **A:** <br />
+
+
+## Support
+
+Have questions? Building your own? **[Join the Discord!][discord]**
+
+## Contributing
+
+This is a community product. If you are interested in contributing, there are a number of ways to get involved:
+
+* Review, comment, or add to the open issues on github
+* Submit a user mod
+* **[Join the Discord!][discord]**
+
+[discord]: https://discord.gg/NDppsd4K
