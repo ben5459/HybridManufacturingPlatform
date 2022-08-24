@@ -25,7 +25,7 @@
 graph TD;
     1[Automatic Tool Changer]-->2[Toolhead];
     2[Toolhead]-->3[Tool Holder];
-    2[Toolhead]-->4[Tool ex. Stealthburner with Clockwork];
+    2[Toolhead]-->4[Tool ex. Stealthburner with Clockwork 2];
 ```
 ## Features:
 - True kinematic coupling that complies with the maxwell criteria.
