@@ -97,19 +97,6 @@ graph TD;
 </details>
 
 
-## Frequently Asked Questions:
-**Q:** SmCo magnets have a TwMax of 250-350C. Why are you using NdFeB magnets? <br /> 
-**A:** Our custom NdFeB magnets have an energy density 30% higher than SmCo magnets while still offering a TwMax of 150C. <br />
-
-Q: How does this compare to an Idex printer?<br />
-A: This is more complex but it is also more flexible. Additionally, a tool changer can be faster because it isn't weighed down by the second printhead on an idex printer. <br />
-
-Q: Which is better, the Enraged Rabit Carrot Feededer or this?<br />
-A: They are complementary. Any one of the tools used on the tool changer can also have virtual tools that correspond with materials in the ERCF. <br />
-
-**Q:** <br />
-**A:** <br />
-
 
 ## Support
 
