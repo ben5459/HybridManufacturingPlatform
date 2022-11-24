@@ -21,16 +21,26 @@
 
 
 ## Bill of Materials:
-- 8x Button Head Hex Drive Screw (92095A177)
-- 8X 18-8 Stainless Steel Button Head Hex Drive Screws (97763A431)
-- 4x 18-8 Stainless Steel Socket Head Screw (91292A124)
+- 8x Button Head Hex Drive Screw - Passivated 18-8 Stainless Steel, M3 x 0.50 mm Thread, 5mm Long (92095A177)
+
+- 8x Button Head Hex Drive Screw - Passivated 18-8 Stainless Steel, M5 x 0.80 mm Thread, 6mm Long (92095A206) https://www.mcmaster.com/92095A206/
+or
+- 8x 18-8 Stainless Steel Button Head Hex Drive Screws - Black-Oxide, M5 x 0.80 mm Thread Size, 6 mm Long (97763A431)
+
+- 4x 18-8 Stainless Steel Socket Head Screw - M5 x 0.8 mm Thread, 10 mm Long (91292A124)
 - 4x Misumi SRMBR5-23
-- 1x M5 1mm Shim (from Voron BOM)
-- 2X F695 ZZ Bearings (from Voron BOM)
-- 1x GT2 20T Gates Idler(from Voron BOM)
 
+- 2x 18-8 Stainless Steel Cup-Point Set Screw - M3 x 0.5 mm Thread, 10 mm Long (92015A106) https://www.mcmaster.com/92015A106/
+- 2x Misumi MSTSG5-15
 
+- 2x M5 1mm Shim (from Voron BOM)
+- 4x F695 ZZ Bearings (2x per side) (from Voron BOM)
+- 2x GT2 20T Gates Idler (from Voron BOM)
 
+X Beam:
+- 18-8 Stainless Steel Socket Head Screw - M3 x 0.5 mm Thread, 6 mm Long (91292A111)
+
+Backer:
 
 
 
