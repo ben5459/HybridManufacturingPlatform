@@ -1,7 +1,6 @@
-# Lightweight XY Joints
-![image](https://user-images.githubusercontent.com/104525636/180825709-c3f8d177-cb0b-4fe8-80d7-bf65cd441394.png)
+# Lightweight XY Joints with Ultralight X Beam 
 
-![image](https://user-images.githubusercontent.com/104525636/179417942-0a88ca0e-ee5f-4aaa-84ac-57b2c0bef763.png)
+![image](https://github.com/ben5459/HybridManufacturingPlatform/blob/7c9ee4720a19a3cb92212dd3503c0e037408b27b/Lightweight%20XY%20Joints/Lightweight%20Slim%20X%20Axis%20Assembly4.png)
 
 ## Features:
 - Aluminum with black anodize finish
