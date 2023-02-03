@@ -1,4 +1,4 @@
-# Lightweight XY Joints with Ultralight X Beam 
+# Lightweight XY Joints shown with Ultralight X Beam 
 
 ![image](https://github.com/ben5459/HybridManufacturingPlatform/blob/7c9ee4720a19a3cb92212dd3503c0e037408b27b/Lightweight%20XY%20Joints/Lightweight%20Slim%20X%20Axis%20Assembly4.png)
 
